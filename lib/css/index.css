@@ -1,0 +1,11 @@
+.wrapper-content {
+  background: aqua;
+}
+.wrapper ul {
+  list-style: none;
+}
+.wrapper ul li {
+  width: 100px;
+  display: flex;
+  box-sizing: border-box;
+}

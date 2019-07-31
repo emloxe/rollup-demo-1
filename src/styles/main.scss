@@ -1,0 +1,15 @@
+.wrapper {
+    &-content {
+        background: aqua;
+    }
+
+    ul {
+        list-style: none;
+
+        li {
+            width: 100px;
+            display: flex;
+            box-sizing: border-box;
+        }
+    }
+}
